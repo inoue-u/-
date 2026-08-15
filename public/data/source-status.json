@@ -1,0 +1,11 @@
+{
+  "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
+  "checkedAt": "2026-08-16T00:00:00.000Z",
+  "sources": [
+    { "region": "Prefecture-wide", "name": "Fukushima Prefecture", "url": "https://www.pref.fukushima.lg.jp/calendar/", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" },
+    { "region": "Nakadori", "name": "Fukushima City", "url": "https://www.city.fukushima.fukushima.jp/calendar.html", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" },
+    { "region": "Nakadori", "name": "Koriyama City", "url": "https://www.city.koriyama.lg.jp/site/gakutokoriyama/54272.html", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" },
+    { "region": "Aizu", "name": "Aizu-Wakamatsu City", "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" },
+    { "region": "Hamadori", "name": "Iwaki City", "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" }
+  ]
+}

@@ -1,0 +1,27 @@
+name: Daily Fukushima official-source check
+
+on:
+  schedule:
+    - cron: "15 18 * * *" # 03:15 Japan Standard Time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check-official-sources:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check allow-listed official sources
+        run: node scripts/collect-official-events.mjs
+      - name: Store changed-source status
+        run: |
+          git config user.name "fukushima-source-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data/source-status.json
+          git diff --cached --quiet || git commit -m "data: refresh Fukushima official-source status"
+          git push
