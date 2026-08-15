@@ -1,11 +1,51 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-08-16T00:00:00.000Z",
+  "checkedAt": "2026-08-15T18:45:34.324Z",
   "sources": [
-    { "region": "Prefecture-wide", "name": "Fukushima Prefecture", "url": "https://www.pref.fukushima.lg.jp/calendar/", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" },
-    { "region": "Nakadori", "name": "Fukushima City", "url": "https://www.city.fukushima.fukushima.jp/calendar.html", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" },
-    { "region": "Nakadori", "name": "Koriyama City", "url": "https://www.city.koriyama.lg.jp/site/gakutokoriyama/54272.html", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" },
-    { "region": "Aizu", "name": "Aizu-Wakamatsu City", "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" },
-    { "region": "Hamadori", "name": "Iwaki City", "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html", "status": "verified", "checkedAt": "2026-08-16T00:00:00.000Z" }
+    {
+      "region": "Prefecture-wide",
+      "name": "Fukushima Prefecture",
+      "url": "https://www.pref.fukushima.lg.jp/calendar/",
+      "status": "reachable",
+      "changed": true,
+      "hash": "3e1f5cb0335b36aff76a863be24c4952659e16acf5851669670a2675b5033b8d",
+      "checkedAt": "2026-08-15T18:45:34.324Z"
+    },
+    {
+      "region": "Nakadori",
+      "name": "Fukushima City",
+      "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
+      "status": "reachable",
+      "changed": true,
+      "hash": "315a96127812070676bc3fd592ad454edbd818da34a35a7142f368f94de8c61e",
+      "checkedAt": "2026-08-15T18:45:34.324Z"
+    },
+    {
+      "region": "Nakadori",
+      "name": "Koriyama City",
+      "url": "https://www.city.koriyama.lg.jp/site/gakutokoriyama/54272.html",
+      "status": "reachable",
+      "changed": true,
+      "hash": "e7c3b91c8e718d2b3606a2e7858f7238956df21f14dc62169202b2c439eecf9f",
+      "checkedAt": "2026-08-15T18:45:34.324Z"
+    },
+    {
+      "region": "Aizu",
+      "name": "Aizu-Wakamatsu City",
+      "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
+      "status": "held",
+      "changed": false,
+      "checkedAt": "2026-08-15T18:45:34.324Z",
+      "reason": "Error: HTTP 404"
+    },
+    {
+      "region": "Hamadori",
+      "name": "Iwaki City",
+      "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
+      "status": "reachable",
+      "changed": true,
+      "hash": "c5fd578dac3639319fa04e487abfac1233a9a9aa9d8de9c0e99517869fe73aaa",
+      "checkedAt": "2026-08-15T18:45:34.324Z"
+    }
   ]
 }
