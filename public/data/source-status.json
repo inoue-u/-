@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-08-29T01:43:46.427Z",
+  "checkedAt": "2026-08-29T20:52:35.117Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,8 +8,8 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "4b709ce10db75ff55a71a840929584df8f11f926f4f1e37e958cd1f9b2ac9abd",
-      "checkedAt": "2026-08-29T01:43:46.427Z"
+      "hash": "c11f579bf8916e4b0634e425f1d0e511137c4b388e8e49a173d7cab96c050816",
+      "checkedAt": "2026-08-29T20:52:35.117Z"
     },
     {
       "region": "Nakadori",
@@ -18,7 +18,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "a3cbe4e52151d89c3d5880a345923fe62734c89dfef043d99a81d8f84c40955b",
-      "checkedAt": "2026-08-29T01:43:46.427Z"
+      "checkedAt": "2026-08-29T20:52:35.117Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "e7c3b91c8e718d2b3606a2e7858f7238956df21f14dc62169202b2c439eecf9f",
-      "checkedAt": "2026-08-29T01:43:46.427Z"
+      "checkedAt": "2026-08-29T20:52:35.117Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-08-29T01:43:46.427Z",
+      "checkedAt": "2026-08-29T20:52:35.117Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -45,7 +45,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "c5fd578dac3639319fa04e487abfac1233a9a9aa9d8de9c0e99517869fe73aaa",
-      "checkedAt": "2026-08-29T01:43:46.427Z"
+      "checkedAt": "2026-08-29T20:52:35.117Z"
     }
   ]
 }
