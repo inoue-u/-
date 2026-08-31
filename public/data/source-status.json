@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-08-30T21:00:54.635Z",
+  "checkedAt": "2026-08-31T22:47:19.036Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,17 +8,17 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "aacf441def572929b13905b15175c384a9cb433e125241ba32e852c717c2a87b",
-      "checkedAt": "2026-08-30T21:00:54.635Z"
+      "hash": "610954ab168155307041e7ac9e56fb878ecfe609849c601a31b7a31b80218e55",
+      "checkedAt": "2026-08-31T22:47:19.036Z"
     },
     {
       "region": "Nakadori",
       "name": "Fukushima City",
       "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
       "status": "reachable",
-      "changed": false,
-      "hash": "a3cbe4e52151d89c3d5880a345923fe62734c89dfef043d99a81d8f84c40955b",
-      "checkedAt": "2026-08-30T21:00:54.635Z"
+      "changed": true,
+      "hash": "cc31c953026d73904cd064189eac146dd71709f8f34f8fe4ac7cb145e7d169b7",
+      "checkedAt": "2026-08-31T22:47:19.036Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "e7c3b91c8e718d2b3606a2e7858f7238956df21f14dc62169202b2c439eecf9f",
-      "checkedAt": "2026-08-30T21:00:54.635Z"
+      "checkedAt": "2026-08-31T22:47:19.036Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-08-30T21:00:54.635Z",
+      "checkedAt": "2026-08-31T22:47:19.036Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
       "changed": true,
-      "hash": "6117f0e40810610fcb67f3e64084d89e3ce4fdec381fb3de017cd14b389e2545",
-      "checkedAt": "2026-08-30T21:00:54.635Z"
+      "hash": "f5360f745217183a93137f600d583e3062beb935cb5a7459c26724b958bb7363",
+      "checkedAt": "2026-08-31T22:47:19.036Z"
     }
   ]
 }
