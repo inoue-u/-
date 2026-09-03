@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-09-02T20:59:34.706Z",
+  "checkedAt": "2026-09-03T20:58:32.668Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,8 +8,8 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "fb54d20ab12c1c359273696aff2fad0bbbba14319ad4f303c36412217075c6e7",
-      "checkedAt": "2026-09-02T20:59:34.706Z"
+      "hash": "9a5c4b0fd5d4e4f7cd00a4480f404fd72d60f26de9451c105b05c9a2f3c902b9",
+      "checkedAt": "2026-09-03T20:58:32.668Z"
     },
     {
       "region": "Nakadori",
@@ -17,17 +17,17 @@
       "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
       "status": "reachable",
       "changed": true,
-      "hash": "d877b946ea6170eb402fa91a2ff35e25cc72f152304e2c5c5f65fbc7e74cda11",
-      "checkedAt": "2026-09-02T20:59:34.706Z"
+      "hash": "0ee1a676d8625f5143675d975ccac7e19545d44009fa7cea80251c54a219e68c",
+      "checkedAt": "2026-09-03T20:58:32.668Z"
     },
     {
       "region": "Nakadori",
       "name": "Koriyama City",
       "url": "https://www.city.koriyama.lg.jp/site/gakutokoriyama/54272.html",
       "status": "reachable",
-      "changed": false,
-      "hash": "e7c3b91c8e718d2b3606a2e7858f7238956df21f14dc62169202b2c439eecf9f",
-      "checkedAt": "2026-09-02T20:59:34.706Z"
+      "changed": true,
+      "hash": "9bdd3af8958cd868fda5613935f6924c26092cb0d9108da37141b37ac00d1bea",
+      "checkedAt": "2026-09-03T20:58:32.668Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-09-02T20:59:34.706Z",
+      "checkedAt": "2026-09-03T20:58:32.668Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -43,9 +43,9 @@
       "name": "Iwaki City",
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
-      "changed": false,
-      "hash": "f5360f745217183a93137f600d583e3062beb935cb5a7459c26724b958bb7363",
-      "checkedAt": "2026-09-02T20:59:34.706Z"
+      "changed": true,
+      "hash": "e9810207e5cdfaf55b1f8ab157c8ef899b558227be662d9f02a9c020e60456ce",
+      "checkedAt": "2026-09-03T20:58:32.668Z"
     }
   ]
 }
