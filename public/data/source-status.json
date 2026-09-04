@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-09-03T20:58:32.668Z",
+  "checkedAt": "2026-09-04T20:43:12.634Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,26 +8,26 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "9a5c4b0fd5d4e4f7cd00a4480f404fd72d60f26de9451c105b05c9a2f3c902b9",
-      "checkedAt": "2026-09-03T20:58:32.668Z"
+      "hash": "8ede72728ac8c5334a6bf16a046b11c1c4b070804628a857b4571b35af8d73b5",
+      "checkedAt": "2026-09-04T20:43:12.634Z"
     },
     {
       "region": "Nakadori",
       "name": "Fukushima City",
       "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
       "status": "reachable",
-      "changed": true,
+      "changed": false,
       "hash": "0ee1a676d8625f5143675d975ccac7e19545d44009fa7cea80251c54a219e68c",
-      "checkedAt": "2026-09-03T20:58:32.668Z"
+      "checkedAt": "2026-09-04T20:43:12.634Z"
     },
     {
       "region": "Nakadori",
       "name": "Koriyama City",
       "url": "https://www.city.koriyama.lg.jp/site/gakutokoriyama/54272.html",
       "status": "reachable",
-      "changed": true,
+      "changed": false,
       "hash": "9bdd3af8958cd868fda5613935f6924c26092cb0d9108da37141b37ac00d1bea",
-      "checkedAt": "2026-09-03T20:58:32.668Z"
+      "checkedAt": "2026-09-04T20:43:12.634Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-09-03T20:58:32.668Z",
+      "checkedAt": "2026-09-04T20:43:12.634Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -43,9 +43,9 @@
       "name": "Iwaki City",
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
-      "changed": true,
+      "changed": false,
       "hash": "e9810207e5cdfaf55b1f8ab157c8ef899b558227be662d9f02a9c020e60456ce",
-      "checkedAt": "2026-09-03T20:58:32.668Z"
+      "checkedAt": "2026-09-04T20:43:12.634Z"
     }
   ]
 }
