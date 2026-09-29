@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-09-28T23:13:00.934Z",
+  "checkedAt": "2026-09-29T22:11:20.788Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,8 +8,8 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "add3e81e231212bee6fa3caaeb4eccafd948f8b4157e8539be57ef67176320c1",
-      "checkedAt": "2026-09-28T23:13:00.934Z"
+      "hash": "a7ba99bdd7b3c08d030759480750e26b368b9dc668b03c0c402be70ac72a5dec",
+      "checkedAt": "2026-09-29T22:11:20.788Z"
     },
     {
       "region": "Nakadori",
@@ -17,8 +17,8 @@
       "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
       "status": "reachable",
       "changed": true,
-      "hash": "ac747e51a0658dca456ee34e2c8cbab3bbd2a7cbf13d25ba34dc27613a3af11f",
-      "checkedAt": "2026-09-28T23:13:00.934Z"
+      "hash": "e59771e683d89732b17c334469c671efad22e5272f3639ff281c20707a9b16ae",
+      "checkedAt": "2026-09-29T22:11:20.788Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "f5b55853af0471202972ce648e38dfa2e4bb4c5b9c719830565e6196a3a66103",
-      "checkedAt": "2026-09-28T23:13:00.934Z"
+      "checkedAt": "2026-09-29T22:11:20.788Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-09-28T23:13:00.934Z",
+      "checkedAt": "2026-09-29T22:11:20.788Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -45,7 +45,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "54763c28fe721e56f48d4f2a7d8efdb0141c6436259d050b6eeb6990cd2289df",
-      "checkedAt": "2026-09-28T23:13:00.934Z"
+      "checkedAt": "2026-09-29T22:11:20.788Z"
     }
   ]
 }
