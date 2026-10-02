@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-10-01T22:37:58.682Z",
+  "checkedAt": "2026-10-02T22:09:39.574Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,8 +8,8 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "97b0ade2de28fe77b684a1787a2458162643234bf1eae8d198c07b15b6f9f9e1",
-      "checkedAt": "2026-10-01T22:37:58.682Z"
+      "hash": "3f831730cbc9dd11bf072d3f776ff25dd2b8d7b3560800db73fff3f064efbdba",
+      "checkedAt": "2026-10-02T22:09:39.574Z"
     },
     {
       "region": "Nakadori",
@@ -18,7 +18,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "154ef00e0c661237a30255fb02351af04b1dc5b28ed9b6673ee2490bbf09aa89",
-      "checkedAt": "2026-10-01T22:37:58.682Z"
+      "checkedAt": "2026-10-02T22:09:39.574Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "f5b55853af0471202972ce648e38dfa2e4bb4c5b9c719830565e6196a3a66103",
-      "checkedAt": "2026-10-01T22:37:58.682Z"
+      "checkedAt": "2026-10-02T22:09:39.574Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-10-01T22:37:58.682Z",
+      "checkedAt": "2026-10-02T22:09:39.574Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -43,9 +43,9 @@
       "name": "Iwaki City",
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
-      "changed": true,
+      "changed": false,
       "hash": "9630b7eb7996c34ca15f7bfc2208b5cdde9a02db5952f865dd21e43b619522c7",
-      "checkedAt": "2026-10-01T22:37:58.682Z"
+      "checkedAt": "2026-10-02T22:09:39.574Z"
     }
   ]
 }
