@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-10-04T21:18:55.494Z",
+  "checkedAt": "2026-10-06T00:00:11.956Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,8 +8,8 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "3e6568dd7c5ae382dbb5c287db3ece103b6e22b93c5a07e8adac07dd921919b7",
-      "checkedAt": "2026-10-04T21:18:55.494Z"
+      "hash": "4ca04f603fe7cf143521dc8f8521ddabaf555449f6140d4c67b0b18da3e08618",
+      "checkedAt": "2026-10-06T00:00:11.956Z"
     },
     {
       "region": "Nakadori",
@@ -18,7 +18,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "154ef00e0c661237a30255fb02351af04b1dc5b28ed9b6673ee2490bbf09aa89",
-      "checkedAt": "2026-10-04T21:18:55.494Z"
+      "checkedAt": "2026-10-06T00:00:11.956Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "f5b55853af0471202972ce648e38dfa2e4bb4c5b9c719830565e6196a3a66103",
-      "checkedAt": "2026-10-04T21:18:55.494Z"
+      "checkedAt": "2026-10-06T00:00:11.956Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-10-04T21:18:55.494Z",
+      "checkedAt": "2026-10-06T00:00:11.956Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
       "changed": true,
-      "hash": "62476cb7328413ae8ea4d8b7cf5906baba3c448a7809fbc476eac3e10c029b3a",
-      "checkedAt": "2026-10-04T21:18:55.494Z"
+      "hash": "a8bf7bafaed11f17f2a2aba78f034065b0e99b8a54b16de7aaa9f365cb339e38",
+      "checkedAt": "2026-10-06T00:00:11.956Z"
     }
   ]
 }
