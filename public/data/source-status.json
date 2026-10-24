@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-10-23T21:20:36.426Z",
+  "checkedAt": "2026-10-24T20:43:01.643Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,8 +8,8 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "56d5edd6bd0e528a6e3d01e392cd997b507bb663d9331297944a1cc93c8305b0",
-      "checkedAt": "2026-10-23T21:20:36.426Z"
+      "hash": "c672fefad208a883a49ef5bb5c3c23e0fde16f1e0e13664aa354f554c8aa16ec",
+      "checkedAt": "2026-10-24T20:43:01.643Z"
     },
     {
       "region": "Nakadori",
@@ -18,7 +18,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "36f5c8b0e270b877e1175e725c741b7141dd86aca48e6a8b3a1f5b93f18cd9a7",
-      "checkedAt": "2026-10-23T21:20:36.426Z"
+      "checkedAt": "2026-10-24T20:43:01.643Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "f5b55853af0471202972ce648e38dfa2e4bb4c5b9c719830565e6196a3a66103",
-      "checkedAt": "2026-10-23T21:20:36.426Z"
+      "checkedAt": "2026-10-24T20:43:01.643Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-10-23T21:20:36.426Z",
+      "checkedAt": "2026-10-24T20:43:01.643Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -43,9 +43,9 @@
       "name": "Iwaki City",
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
-      "changed": false,
-      "hash": "5a086f587e4e63932ce8aa7505f8749312d1cd06fb755887fe2b70055e738d36",
-      "checkedAt": "2026-10-23T21:20:36.426Z"
+      "changed": true,
+      "hash": "e4b31b07f6d4cb9b39ce605bff9fef14c8c00fb15027acbf8c122d50a61f327b",
+      "checkedAt": "2026-10-24T20:43:01.643Z"
     }
   ]
 }
