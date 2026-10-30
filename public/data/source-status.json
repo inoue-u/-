@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-10-29T22:41:47.304Z",
+  "checkedAt": "2026-10-30T22:14:32.134Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,26 +8,26 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "70a364d4a941daeb6186cdc9ffca54185966ed825654a78de7a161ea88c185b1",
-      "checkedAt": "2026-10-29T22:41:47.304Z"
+      "hash": "d015494ab622a123f93ac5d724728ae689f903cbc3470b6c641c6ca50b6053ab",
+      "checkedAt": "2026-10-30T22:14:32.134Z"
     },
     {
       "region": "Nakadori",
       "name": "Fukushima City",
       "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
       "status": "reachable",
-      "changed": true,
+      "changed": false,
       "hash": "e97e94b5294ad6cc1126bbfcc5a342162520008884ef048383460bbd577d13c7",
-      "checkedAt": "2026-10-29T22:41:47.304Z"
+      "checkedAt": "2026-10-30T22:14:32.134Z"
     },
     {
       "region": "Nakadori",
       "name": "Koriyama City",
       "url": "https://www.city.koriyama.lg.jp/site/gakutokoriyama/54272.html",
       "status": "reachable",
-      "changed": false,
-      "hash": "d58a3943ac30c3641b6ee6488efd1c6adb919539021f6f36780eba023eecc8d6",
-      "checkedAt": "2026-10-29T22:41:47.304Z"
+      "changed": true,
+      "hash": "cf57d6110ac09994e275f7ec059fa6adfb9a2d512c31bd3a3ef615cf9efc3ac8",
+      "checkedAt": "2026-10-30T22:14:32.134Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-10-29T22:41:47.304Z",
+      "checkedAt": "2026-10-30T22:14:32.134Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -43,9 +43,9 @@
       "name": "Iwaki City",
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
-      "changed": false,
-      "hash": "5509be3cf407b60a5473f59b33c8e6346372674fe1668623e24de953978e5c12",
-      "checkedAt": "2026-10-29T22:41:47.304Z"
+      "changed": true,
+      "hash": "d0b0aa1da94c59cfc7bcb9b20eb1b210796d7f331fc85e0f55d679a7fd08ec85",
+      "checkedAt": "2026-10-30T22:14:32.134Z"
     }
   ]
 }
