@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-10-30T22:14:32.134Z",
+  "checkedAt": "2026-10-31T21:28:03.671Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,26 +8,26 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "d015494ab622a123f93ac5d724728ae689f903cbc3470b6c641c6ca50b6053ab",
-      "checkedAt": "2026-10-30T22:14:32.134Z"
+      "hash": "8ea358d04037b208f79c198f67c5942ae847bcaa9a49b62606811ed1b975cada",
+      "checkedAt": "2026-10-31T21:28:03.671Z"
     },
     {
       "region": "Nakadori",
       "name": "Fukushima City",
       "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
       "status": "reachable",
-      "changed": false,
-      "hash": "e97e94b5294ad6cc1126bbfcc5a342162520008884ef048383460bbd577d13c7",
-      "checkedAt": "2026-10-30T22:14:32.134Z"
+      "changed": true,
+      "hash": "c2b2b881ee61971756df513027868c427b9391c2d38495055826118d83e36865",
+      "checkedAt": "2026-10-31T21:28:03.671Z"
     },
     {
       "region": "Nakadori",
       "name": "Koriyama City",
       "url": "https://www.city.koriyama.lg.jp/site/gakutokoriyama/54272.html",
       "status": "reachable",
-      "changed": true,
+      "changed": false,
       "hash": "cf57d6110ac09994e275f7ec059fa6adfb9a2d512c31bd3a3ef615cf9efc3ac8",
-      "checkedAt": "2026-10-30T22:14:32.134Z"
+      "checkedAt": "2026-10-31T21:28:03.671Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-10-30T22:14:32.134Z",
+      "checkedAt": "2026-10-31T21:28:03.671Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
       "changed": true,
-      "hash": "d0b0aa1da94c59cfc7bcb9b20eb1b210796d7f331fc85e0f55d679a7fd08ec85",
-      "checkedAt": "2026-10-30T22:14:32.134Z"
+      "hash": "07f8e6bc21fe93284b68a7711a3187a2c039cd2e73fde216ccf946fa6e591e32",
+      "checkedAt": "2026-10-31T21:28:03.671Z"
     }
   ]
 }
