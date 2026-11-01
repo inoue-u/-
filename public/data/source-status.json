@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-10-31T21:28:03.671Z",
+  "checkedAt": "2026-11-01T21:57:41.269Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,17 +8,17 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "8ea358d04037b208f79c198f67c5942ae847bcaa9a49b62606811ed1b975cada",
-      "checkedAt": "2026-10-31T21:28:03.671Z"
+      "hash": "5a7140677e77abfe6b99490054a07c60564dfa1d37ade5a6be7099c7eec649ac",
+      "checkedAt": "2026-11-01T21:57:41.269Z"
     },
     {
       "region": "Nakadori",
       "name": "Fukushima City",
       "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
       "status": "reachable",
-      "changed": true,
+      "changed": false,
       "hash": "c2b2b881ee61971756df513027868c427b9391c2d38495055826118d83e36865",
-      "checkedAt": "2026-10-31T21:28:03.671Z"
+      "checkedAt": "2026-11-01T21:57:41.269Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "cf57d6110ac09994e275f7ec059fa6adfb9a2d512c31bd3a3ef615cf9efc3ac8",
-      "checkedAt": "2026-10-31T21:28:03.671Z"
+      "checkedAt": "2026-11-01T21:57:41.269Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-10-31T21:28:03.671Z",
+      "checkedAt": "2026-11-01T21:57:41.269Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -44,8 +44,8 @@
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
       "changed": true,
-      "hash": "07f8e6bc21fe93284b68a7711a3187a2c039cd2e73fde216ccf946fa6e591e32",
-      "checkedAt": "2026-10-31T21:28:03.671Z"
+      "hash": "08402f1aab7cb4f59d725044dd94c243de53efd681c2661dba42247bf845d302",
+      "checkedAt": "2026-11-01T21:57:41.269Z"
     }
   ]
 }
