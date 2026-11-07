@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-11-06T23:03:45.970Z",
+  "checkedAt": "2026-11-07T21:44:35.999Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,8 +8,8 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "defe2915f51c4b0c1b68b920260c5fc5780e4ce39ec1f9514a8bf735e0bcf9c8",
-      "checkedAt": "2026-11-06T23:03:45.970Z"
+      "hash": "ee8ef876ac060cf76919cc9f406d5894c141410e63c7c0d8a6165b59663ec9b5",
+      "checkedAt": "2026-11-07T21:44:35.999Z"
     },
     {
       "region": "Nakadori",
@@ -17,8 +17,8 @@
       "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
       "status": "reachable",
       "changed": true,
-      "hash": "86bfdaeed8a1e56e111ddd609c45482974cf657bbb976c6633027d7aa85a8745",
-      "checkedAt": "2026-11-06T23:03:45.970Z"
+      "hash": "a3627d2c2baf4198d6a4ffcf4986e46a9eef44cc2dfa1328ea130a7a57fec014",
+      "checkedAt": "2026-11-07T21:44:35.999Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "cf57d6110ac09994e275f7ec059fa6adfb9a2d512c31bd3a3ef615cf9efc3ac8",
-      "checkedAt": "2026-11-06T23:03:45.970Z"
+      "checkedAt": "2026-11-07T21:44:35.999Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-11-06T23:03:45.970Z",
+      "checkedAt": "2026-11-07T21:44:35.999Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -43,9 +43,9 @@
       "name": "Iwaki City",
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
-      "changed": true,
+      "changed": false,
       "hash": "45d8b25514164a28e5b388afbeb11667adef6732c6153a027e2ab0e3780b6f50",
-      "checkedAt": "2026-11-06T23:03:45.970Z"
+      "checkedAt": "2026-11-07T21:44:35.999Z"
     }
   ]
 }
