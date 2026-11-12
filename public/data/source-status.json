@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-11-10T23:14:02.071Z",
+  "checkedAt": "2026-11-12T00:35:18.464Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,17 +8,17 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "1c94f5d0c632783bb97f47bf46722a9aa7c81aa480a107dae43a5d08736d6526",
-      "checkedAt": "2026-11-10T23:14:02.071Z"
+      "hash": "398bcc20bf299744e169d28170f1b68603662df788c5108299a996a484f518a9",
+      "checkedAt": "2026-11-12T00:35:18.464Z"
     },
     {
       "region": "Nakadori",
       "name": "Fukushima City",
       "url": "https://www.city.fukushima.fukushima.jp/calendar.html",
       "status": "reachable",
-      "changed": false,
-      "hash": "a3627d2c2baf4198d6a4ffcf4986e46a9eef44cc2dfa1328ea130a7a57fec014",
-      "checkedAt": "2026-11-10T23:14:02.071Z"
+      "changed": true,
+      "hash": "f72aa3a84cb3053652ce214acf6f532161a3095ca48495f03108a3f61ab8bec7",
+      "checkedAt": "2026-11-12T00:35:18.464Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "cf57d6110ac09994e275f7ec059fa6adfb9a2d512c31bd3a3ef615cf9efc3ac8",
-      "checkedAt": "2026-11-10T23:14:02.071Z"
+      "checkedAt": "2026-11-12T00:35:18.464Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-11-10T23:14:02.071Z",
+      "checkedAt": "2026-11-12T00:35:18.464Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -45,7 +45,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "45d8b25514164a28e5b388afbeb11667adef6732c6153a027e2ab0e3780b6f50",
-      "checkedAt": "2026-11-10T23:14:02.071Z"
+      "checkedAt": "2026-11-12T00:35:18.464Z"
     }
   ]
 }
