@@ -1,6 +1,6 @@
 {
   "policy": "Official sources are monitored daily. A changed page enters editorial verification; the collector never guesses or auto-publishes ambiguous dates.",
-  "checkedAt": "2026-11-15T22:45:25.022Z",
+  "checkedAt": "2026-11-17T01:50:35.027Z",
   "sources": [
     {
       "region": "Prefecture-wide",
@@ -8,8 +8,8 @@
       "url": "https://www.pref.fukushima.lg.jp/calendar/",
       "status": "reachable",
       "changed": true,
-      "hash": "3ce83ac2d2bf2f29a878fd9c0d3993b36ba4b16dc1ac7d16aca0ff293c87eb66",
-      "checkedAt": "2026-11-15T22:45:25.022Z"
+      "hash": "3fa4c97440c87769af77afba200cf5abaf6e631ad553c51d8b7f981727fd57ab",
+      "checkedAt": "2026-11-17T01:50:35.027Z"
     },
     {
       "region": "Nakadori",
@@ -18,7 +18,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "f72aa3a84cb3053652ce214acf6f532161a3095ca48495f03108a3f61ab8bec7",
-      "checkedAt": "2026-11-15T22:45:25.022Z"
+      "checkedAt": "2026-11-17T01:50:35.027Z"
     },
     {
       "region": "Nakadori",
@@ -27,7 +27,7 @@
       "status": "reachable",
       "changed": false,
       "hash": "cf57d6110ac09994e275f7ec059fa6adfb9a2d512c31bd3a3ef615cf9efc3ac8",
-      "checkedAt": "2026-11-15T22:45:25.022Z"
+      "checkedAt": "2026-11-17T01:50:35.027Z"
     },
     {
       "region": "Aizu",
@@ -35,7 +35,7 @@
       "url": "https://www.city.aizuwakamatsu.fukushima.jp/index_php/event_callen/",
       "status": "held",
       "changed": false,
-      "checkedAt": "2026-11-15T22:45:25.022Z",
+      "checkedAt": "2026-11-17T01:50:35.027Z",
       "reason": "Error: HTTP 404"
     },
     {
@@ -43,9 +43,9 @@
       "name": "Iwaki City",
       "url": "https://www.city.iwaki.lg.jp/www/genre/1452741939257/index.html",
       "status": "reachable",
-      "changed": false,
-      "hash": "45d8b25514164a28e5b388afbeb11667adef6732c6153a027e2ab0e3780b6f50",
-      "checkedAt": "2026-11-15T22:45:25.022Z"
+      "changed": true,
+      "hash": "d584f0a1ccdfb8096e533e68ffe051ad8e7e9cc1a51b15be4faaa28619a23503",
+      "checkedAt": "2026-11-17T01:50:35.027Z"
     }
   ]
 }
